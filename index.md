@@ -1,9 +1,9 @@
 ## Work and Research
 
-### Contact and Current Place of Work
+### Contact
 Aalto University <br />
-Department of Mathematics and Systems Analysis <br />
-Room Y250c <br />
+Christian Yudhistira <br />
+Master Student in Security and Cloud Computing <br />
 For more contact information see [here](https://math.aalto.fi/en/people/konrad.kohbrok). <br />
 
 ### Research Interests
