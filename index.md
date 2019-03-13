@@ -2,8 +2,8 @@
 
 ### Contact
 Aalto University <br />
-Christian Yudhistira <br />
 Master Student in Security and Cloud Computing <br />
+Christian Yudhistira <br />
 
 ### Research Interests
 Together with my advisors [Christopher Brzuska](http://www.chrisbrzuska.de/) and [Markulf Kohlweiss](https://www.cryptulf.com/), I work on bridging the gap between security proofs of composed security protocols and their implementations. So far, I have been working mostly with F\* and the proof approach used in the [miTLS project](https://www.mitls.org/). In the future, I would like to further extend my knowledge in programming languages and formal verification.
