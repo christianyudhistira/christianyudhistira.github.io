@@ -1,7 +1,7 @@
 ## Work and Research
 
 ### Contact and Current Place of Work
-Aalto Universityy <br />
+Aalto University <br />
 Department of Mathematics and Systems Analysis <br />
 Room Y250c <br />
 For more contact information see [here](https://math.aalto.fi/en/people/konrad.kohbrok). <br />
