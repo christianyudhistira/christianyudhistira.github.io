@@ -1,7 +1,7 @@
 ## About me
 
 ### Current Study
-Aalto University <br />
+Aalto University - Finland<br />
 Master Student in Security and Cloud Computing (Erasmus Mundus) - successor of NordSecMob <br />
 
 ### Contact
