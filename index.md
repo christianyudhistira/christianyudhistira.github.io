@@ -4,6 +4,7 @@
 Aalto University <br />
 Master Student in Security and Cloud Computing <br /><br />
 [Christian Yudhistira](https://www.linkedin.com/in/christianyudhistira/) <br />
+e-mail - christianyudhis at gmail dot com
 
 ### Research Interests
 
